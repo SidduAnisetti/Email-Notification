@@ -10,7 +10,7 @@ Step 2:
 
 2.Create an Application specific password and replace at "gmail_password"
 
-3.Add 2 gmail id's which at "to"
+3.Add 2 gmail id's  at "to"
 
 
 
