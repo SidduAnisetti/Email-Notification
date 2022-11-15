@@ -3,10 +3,10 @@ import requests
 import time
 
 # Set up the send account and general email details
-gmail_user = "sidduanisetti123@gmail.com"
-gmail_password = "vaphgbntjtpfxymj"
+gmail_user = "XXXXXXXXX@gmail.com"
+gmail_password = "XXXXXXXXXX"
 sent_from = gmail_user
-to = ["sidduanisetti123@gmail.com", "sidduanisetti@gmail.com"]
+to = ["XXXXXXXXXXX@gmail.com", "XXXXXXXXX@gmail.com"]
 subject = "outdoor-classroom Change Detected"
 urls = [
     "https://rockevents.ca/event/outdoor-classroom/",
